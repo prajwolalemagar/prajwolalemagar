@@ -1,4 +1,4 @@
-## Hi there 👋 I am undergraduate student from NIST College Banepa. I am studying bachelors. I like coding.
+## Hi there 👋 I 'm Prajwol Ale Magar. You can remember me as an IT enthusiast just trying to do some coding. Peace Out!!!!
 
 
 
