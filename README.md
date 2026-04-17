@@ -1,4 +1,4 @@
-## Hi there 👋 I 'm Prajwol Ale Magar. You can remember me as an IT enthusiast just trying to do some coding. Peace Out!!!!
+## Hi there 👋 I 'm Prajwol Ale Magar. I'm an IT enthusiast just trying to do some coding. Peace Out!!!!
 
 
 
