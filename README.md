@@ -5,6 +5,6 @@
 <div align="center">
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=sahan11111&theme=radical&hide_border=true" alt="Streak stats" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prajwolalemagar&theme=radical&hide_border=true" alt="Streak stats" />
 
 </div>
